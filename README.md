@@ -29,7 +29,7 @@ Measured on the Amazon Lumberyard Bistro scene: **2.84M triangles**, **DX12 272.
   ·
   <a href="https://docs.google.com/presentation/d/1tfTBp06uEOTYr-qzJ8vhQBhm_r3lKSVhpbtk1gBXgyM/edit?usp=sharing"><b>Supplementary Slides</b></a>
   ·
-  <a href="https://github.com/WestMinsu/Portfolio"><b>Portfolio Repository</b></a>
+  <a href="https://westminsu.github.io/Portfolio/"><b>Portfolio Website</b></a>
 </p>
 
 ## Focus
