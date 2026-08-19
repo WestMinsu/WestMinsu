@@ -31,7 +31,3 @@ Measured on the Amazon Lumberyard Bistro scene: **2.84M triangles**, **DX12 272.
   ·
   <a href="https://westminsu.github.io/Portfolio/"><b>Portfolio Website</b></a>
 </p>
-
-## Focus
-
-I am interested in rendering systems close to the graphics API layer, especially GPU resource binding, frame graph scheduling, GPU-driven submission, and real-time lighting/post-processing pipelines.
