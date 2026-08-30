@@ -47,7 +47,5 @@ A DirectX 12 / Vulkan dual-backend real-time rendering engine built around a sha
 
 **Tech:** C++, DirectX 12, Vulkan, Slang
 
-## Links
 
 - [Portfolio Website](https://westminsu.github.io/Portfolio/)
-- [WestEngine Supplementary Slides](https://docs.google.com/presentation/d/1tfTBp06uEOTYr-qzJ8vhQBhm_r3lKSVhpbtk1gBXgyM/edit?usp=sharing)
